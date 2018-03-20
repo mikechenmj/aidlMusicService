@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">音乐播放器作业</string>
+    <string name="music_pause">暂停</string>
+</resources>
